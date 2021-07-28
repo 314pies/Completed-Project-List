@@ -3,19 +3,20 @@
 This is my portfolio listing all projects I've worked on, it's basic, but should contain most info you may want to know :)
 
 
-## Taiwan Receipt Lottery Statistic
+## Web-Based Projects
+### Taiwan Receipt Lottery Statistic
 A simple web app using [Flask](https://github.com/pallets/flask) showing the annual statistics of the Taiwan receipt lottery.
 
 => View it on [GitHub](https://github.com/314pies/Taiwan-receipt-lottery-statistic)<=  
 or  
 => [Try it here](https://tw-lottery-statistic.appspot.com/) <=
 
-## Electronic Exhibition System
+### Electronic Exhibition System
 Designed to browse physical/virtual exhibitions online, and provide visitors digital guide book while visiting physical exhibitions. Using PHP 5, MySQL, and Unity.  
 
 => View it on [GitHub](https://github.com/314pies/EES_Console) <=
 
-## ParrelSync
+### ParrelSync
 
 Unity editor extension to test multiplayer game-play without building the project, having around ***1k stars*** as of 7/28/2021.  
 
