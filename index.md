@@ -16,7 +16,7 @@ Designed to browse physical/virtual exhibitions online, and provide visitors dig
 
 => View it on [GitHub](https://github.com/314pies/EES_Console) <=
 
-### ParrelSync
+## ParrelSync
 
 Unity editor extension to test multiplayer game-play without building the project, having around ***1k stars*** as of 7/28/2021.  
 
