@@ -6,9 +6,9 @@ This is my portfolio listing all projects I've worked on, it's basic, but should
 ## Taiwan Receipt Lottery Statistic
 A simple web app using [Flask](https://github.com/pallets/flask) showing the annual statistics of the Taiwan receipt lottery.
 
--> View it on [GitHub](https://github.com/314pies/Taiwan-receipt-lottery-statistic)<-  
+=> View it on [GitHub](https://github.com/314pies/Taiwan-receipt-lottery-statistic)<=  
 or  
--> [Try it here](https://tw-lottery-statistic.appspot.com/) <-
+=> [Try it here](https://tw-lottery-statistic.appspot.com/) <=
 
 ## Electronic Exhibition System
 Designed to browse physical/virtual exhibitions online, and provide visitors digital guide book while visiting physical exhibitions. Using PHP 5, MySQL, and Unity.  
