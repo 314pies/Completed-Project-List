@@ -24,7 +24,7 @@ Unity editor extension to test multiplayer game-play without building the projec
 ## Local Warfare Series
 Mobile FPS games series developed with Unity, with around ***3 ~ 4 million*** downloads in total as of 7/28/2021.  
 
-### Local Warfare Re: Portable (Work In Progress)
+### Local Warfare Re: Portable (In Progress)
 
 *300K downloads as of 7/28/2021.*  
 
