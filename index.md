@@ -41,7 +41,7 @@ The remake of Local Warfare portable, still working on some of the main features
 ### LocalWarfare: NU
 *800k downloads as of 7/28/2021.*  
 
--> View it on [Google Play](https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable)  or [App Store](https://apps.apple.com/us/app/local-warfare-name-unknown/id1495948767)<-
+-> View it on [Google Play](https://play.google.com/store/apps/details?id=com.BUProduct.LocalWarfarePortable)  or [App Store](https://apps.apple.com/us/app/local-warfare-name-unknown/id1495948767)<-
 
 ## Other Projects
 
