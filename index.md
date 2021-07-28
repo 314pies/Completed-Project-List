@@ -18,7 +18,7 @@ Designed to browse physical/virtual exhibitions online, and provide visitors dig
 
 ## ParrelSync
 
-Unity editor extension to test multiplayer game-play without building the project, having around ***1k stars*** as of 7/28/2021.  
+Unity editor extension to test multiplayer game-play without building the project, with around ***1k stars*** as of 7/28/2021.  
 
 => View it on [GitHub](https://github.com/VeriorPies/ParrelSync) <=
 
