@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Welcome to Yen-Lin Chen's Portfolio
 
-You can use the [editor on GitHub](https://github.com/314pies/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my portfolio listing all projects I've work on, it's basic, but should contain most info you may want to know :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Taiwan Receipt Lottery Statistic
+A simple web-app using [Flask](https://github.com/pallets/flask) showing the annual statistics of Taiwan receipt lottery.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-> View it on [GitHub](https://github.com/314pies/Taiwan-receipt-lottery-statistic)<-  
+or  
+-> [Try it here](https://tw-lottery-statistic.appspot.com/) <-
 
-```markdown
-Syntax highlighted code block
+## Electronic Exhibition System
+Designed to browse physical/virtual exhibitions online, and provide visitors digital guide book while visiting physical exhibitions. Using PHP 5, MySQL and Unity.  
 
-# Header 1
-## Header 2
-### Header 3
+-> View it on [GitHub](https://github.com/314pies/EES_Console) <-
 
-- Bulleted
-- List
+## ParrelSync
 
-1. Numbered
-2. List
+Unity editor extension to test multiplayer game-play without building the project, having around **1k stars** as of 7/28/2021.  
 
-**Bold** and _Italic_ and `Code` text
+-> View it on [GitHub](https://github.com/VeriorPies/ParrelSync) <-
 
-[Link](url) and ![Image](src)
-```
+## Local Warfare Series
+Mobile FPS games series developed with Unity, with around 3 ~ 4 millions download in total as of 7/28/2021.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Local Warfare Re: Portable (In Progress)
 
-### Jekyll Themes
+*300K downloads as of 7/28/2021.*  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/314pies/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The remake of Local Warfare portable, still working on some of the main features :)
 
-### Support or Contact
+-> View it on [Google Play](https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable) <-
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Local Warfare Portable
+*2.8M downloads as of 7/28/2021.*  
+
+-> View it on [Google Play](https://play.google.com/store/apps/details?id=com.OldProduct.LocalWarfarePortable)<-
+
+
+### LocalWarfare: NU
+*800k downloads as of 7/28/2021.*  
+
+-> View it on [Google Play](https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable)  or [App Store](https://apps.apple.com/us/app/local-warfare-name-unknown/id1495948767)<-
+
+## Other Projects
+
+### IOS/Anrdoid course project
+* Path: [GitHub](https://github.com/314pies/Paths)
+* EZNotes: [GitHub](https://github.com/314pies/EZNotes)
+* ARMini-Game: [GitHub](https://github.com/314pies/ARMiniGame)
+
+### Global Game Jam Projects
+* 2020 Tool Man War: [GitHub](https://github.com/314pies/ggj2020)
+* 2017 WSaver: [GitHub](https://github.com/314pies/WSaver)
+* 2016 After Ritual: [GitHub](https://github.com/314pies/project-ggj2016)
