@@ -28,7 +28,7 @@ Mobile FPS games series developed with Unity, with around ***3 ~ 4 million*** do
 
 *300K downloads as of 7/28/2021.*  
 
-The remake of Local Warfare portable, still working on some of the main features :)
+Still working on some of the main features :)
 
 => View it on [Google Play](https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable) <=
 
