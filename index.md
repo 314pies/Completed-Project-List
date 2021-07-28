@@ -13,13 +13,13 @@ or
 ## Electronic Exhibition System
 Designed to browse physical/virtual exhibitions online, and provide visitors digital guide book while visiting physical exhibitions. Using PHP 5, MySQL, and Unity.  
 
--> View it on [GitHub](https://github.com/314pies/EES_Console) <-
+=> View it on [GitHub](https://github.com/314pies/EES_Console) <=
 
 ## ParrelSync
 
 Unity editor extension to test multiplayer game-play without building the project, having around ***1k stars*** as of 7/28/2021.  
 
--> View it on [GitHub](https://github.com/VeriorPies/ParrelSync) <-
+=> View it on [GitHub](https://github.com/VeriorPies/ParrelSync) <=
 
 ## Local Warfare Series
 Mobile FPS games series developed with Unity, with around ***3 ~ 4 million*** downloads in total as of 7/28/2021.  
@@ -30,18 +30,18 @@ Mobile FPS games series developed with Unity, with around ***3 ~ 4 million*** do
 
 The remake of Local Warfare portable, still working on some of the main features :)
 
--> View it on [Google Play](https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable) <-
+=> View it on [Google Play](https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable) <=
 
 ### Local Warfare Portable
 *2.8M downloads as of 7/28/2021.*  
 
--> View it on [Google Play](https://play.google.com/store/apps/details?id=com.OldProduct.LocalWarfarePortable)<-
+=> View it on [Google Play](https://play.google.com/store/apps/details?id=com.OldProduct.LocalWarfarePortable)<=
 
 
 ### LocalWarfare: NU
 *800k downloads as of 7/28/2021.*  
 
--> View it on [Google Play](https://play.google.com/store/apps/details?id=com.BUProduct.LocalWarfarePortable)  or [App Store](https://apps.apple.com/us/app/local-warfare-name-unknown/id1495948767)<-
+=> View it on [Google Play](https://play.google.com/store/apps/details?id=com.BUProduct.LocalWarfarePortable)  or [App Store](https://apps.apple.com/us/app/local-warfare-name-unknown/id1495948767)<=
 
 ## Other Projects
 
