@@ -1,17 +1,17 @@
-# Welcome to Yen-Lin Chen's Portfolio
+## Welcome to Yen-Lin Chen's Portfolio
 
 This is my portfolio listing all projects I've work on, it's basic, but should contain most info you may want to know :)
 
 
 ## Taiwan Receipt Lottery Statistic
-A simple web-app using [Flask](https://github.com/pallets/flask) showing the annual statistics of Taiwan receipt lottery.
+A simple web app using [Flask](https://github.com/pallets/flask) showing the annual statistics of the Taiwan receipt lottery.
 
 -> View it on [GitHub](https://github.com/314pies/Taiwan-receipt-lottery-statistic)<-  
 or  
 -> [Try it here](https://tw-lottery-statistic.appspot.com/) <-
 
 ## Electronic Exhibition System
-Designed to browse physical/virtual exhibitions online, and provide visitors digital guide book while visiting physical exhibitions. Using PHP 5, MySQL and Unity.  
+Designed to browse physical/virtual exhibitions online, and provide visitors digital guide book while visiting physical exhibitions. Using PHP 5, MySQL, and Unity.  
 
 -> View it on [GitHub](https://github.com/314pies/EES_Console) <-
 
@@ -22,7 +22,7 @@ Unity editor extension to test multiplayer game-play without building the projec
 -> View it on [GitHub](https://github.com/VeriorPies/ParrelSync) <-
 
 ## Local Warfare Series
-Mobile FPS games series developed with Unity, with around 3 ~ 4 millions download in total as of 7/28/2021.  
+Mobile FPS games series developed with Unity, with around 3 ~ 4 million downloads in total as of 7/28/2021.  
 
 ### Local Warfare Re: Portable (In Progress)
 
