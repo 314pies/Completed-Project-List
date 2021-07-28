@@ -1,6 +1,6 @@
 # Welcome to Yen-Lin Chen's Portfolio
 
-This is my portfolio listing all projects I've work on, it's basic, but should contain most info you may want to know :)
+This is my portfolio listing all projects I've worked on, it's basic, but should contain most info you may want to know :)
 
 
 ## Taiwan Receipt Lottery Statistic
