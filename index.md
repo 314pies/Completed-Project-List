@@ -17,12 +17,12 @@ Designed to browse physical/virtual exhibitions online, and provide visitors dig
 
 ## ParrelSync
 
-Unity editor extension to test multiplayer game-play without building the project, having around **1k stars** as of 7/28/2021.  
+Unity editor extension to test multiplayer game-play without building the project, having around ***1k stars*** as of 7/28/2021.  
 
 -> View it on [GitHub](https://github.com/VeriorPies/ParrelSync) <-
 
 ## Local Warfare Series
-Mobile FPS games series developed with Unity, with around 3 ~ 4 million downloads in total as of 7/28/2021.  
+Mobile FPS games series developed with Unity, with around ***3 ~ 4 million*** downloads in total as of 7/28/2021.  
 
 ### Local Warfare Re: Portable (In Progress)
 
