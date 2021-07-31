@@ -5,11 +5,19 @@ This is my portfolio listing all projects I've worked on, it's basic, but should
 
 ## Web-Based Projects
 ### Taiwan Receipt Lottery Statistic
-A simple web app using [Flask](https://github.com/pallets/flask) showing the annual statistics of the Taiwan receipt lottery.
+A simple web app built with [Flask](https://github.com/pallets/flask) framework showing the annual statistics of the Taiwan receipt lottery.
 
 => View it on [GitHub](https://github.com/314pies/Taiwan-receipt-lottery-statistic)<=  
 or  
 => [Try it here](https://tw-lottery-statistic.appspot.com/) <=
+
+### Dining Suggestion Chatbot
+A serverless chatbot web app providing dining suggestions.  
+Built with Python 3.8, AWS Lambda, AWS Lex and Yelp API.
+
+=> View it on [GitHub](https://github.com/314pies/Dining-Suggestion-Chatbot)<=  
+or  
+=> [Try it here](https://314pies.github.io/DiningChatbotDemo/) <=
 
 ### Electronic Exhibition System
 Designed to browse physical/virtual exhibitions online, and provide visitors digital guide book while visiting physical exhibitions. Using PHP 5, MySQL, and Unity.  
