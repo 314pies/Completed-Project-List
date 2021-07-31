@@ -35,22 +35,23 @@ Mobile FPS games series developed with Unity, with around ***3 ~ 4 million downl
 
 ### Local Warfare Re: Portable (In Progress)
 
-*300K downloads as of 7/28/2021.*  
+*Around 300K downloads as of 7/28/2021.*  
 
 Still working on some of the main features :)
 
 => View it on [Google Play](https://play.google.com/store/apps/details?id=com.DazadGame.LocalWarfareRePortable) <=
 
+### LocalWarfare: NU
+*Around 800k downloads as of 7/28/2021.*  
+
+=> View it on [Google Play](https://play.google.com/store/apps/details?id=com.BUProduct.LocalWarfarePortable)  or [App Store](https://apps.apple.com/us/app/local-warfare-name-unknown/id1495948767)<=
+
 ### Local Warfare Portable
-*2.8M downloads as of 7/28/2021.*  
+*Around 2.8M downloads as of 7/28/2021.*  
 
 => View it on [Google Play](https://play.google.com/store/apps/details?id=com.OldProduct.LocalWarfarePortable)<=
 
 
-### LocalWarfare: NU
-*800k downloads as of 7/28/2021.*  
-
-=> View it on [Google Play](https://play.google.com/store/apps/details?id=com.BUProduct.LocalWarfarePortable)  or [App Store](https://apps.apple.com/us/app/local-warfare-name-unknown/id1495948767)<=
 
 ## Other Projects
 
