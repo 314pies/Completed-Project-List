@@ -8,8 +8,6 @@ This is my portfolio listing all projects I've worked on, it's basic, but should
 A simple web app built with [Flask](https://github.com/pallets/flask) framework showing the annual statistics of the Taiwan receipt lottery.
 
 => View it on [GitHub](https://github.com/314pies/Taiwan-receipt-lottery-statistic)<=  
-or  
-=> [Try it here](https://tw-lottery-statistic.appspot.com/) <=
 
 ### Dining Suggestion Chatbot
 A serverless chatbot web app providing dining suggestions.  
@@ -64,3 +62,5 @@ Still working on some of the main features :)
 * 2020 Tool Man War: [GitHub](https://github.com/314pies/ggj2020)
 * 2017 WSaver: [GitHub](https://github.com/314pies/WSaver)
 * 2016 After Ritual: [GitHub](https://github.com/314pies/project-ggj2016)
+
+## /*More To-Be Added*/
